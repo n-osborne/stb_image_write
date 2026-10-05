@@ -1,0 +1,5 @@
+(library
+ (package stb_image_write)
+ (name stb_image_write)
+ (foreign_stubs (language c) (names ml_stb_image_write)))
+
